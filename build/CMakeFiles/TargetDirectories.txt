@@ -1,0 +1,3 @@
+/home/pi/dobot_cr/build/CMakeFiles/edit_cache.dir
+/home/pi/dobot_cr/build/CMakeFiles/rebuild_cache.dir
+/home/pi/dobot_cr/build/CMakeFiles/Demo.dir

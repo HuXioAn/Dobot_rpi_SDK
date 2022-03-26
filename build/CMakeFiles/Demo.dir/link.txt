@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Demo.dir/src/Demo.o CMakeFiles/Demo.dir/src/RealTimeData.o CMakeFiles/Demo.dir/src/SocketUtils.o -o Demo  -lpthread -lm 
